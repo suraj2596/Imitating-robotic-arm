@@ -1,6 +1,8 @@
 # Imitating-robotic-arm
 
-![alt text](https://github.com/suraj2596/Imitating-robotic-arm/blob/master/misc/1)
+![Sensors](https://github.com/suraj2596/Imitating-robotic-arm/blob/master/misc/1)
+![Hand](https://github.com/suraj2596/Imitating-robotic-arm/blob/master/misc/2)
+![hand](https://github.com/suraj2596/Imitating-robotic-arm/blob/master/misc/3)
 
 
 This is my Final Year Project of my BE in ECE. 
