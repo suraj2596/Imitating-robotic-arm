@@ -1,5 +1,8 @@
 # Imitating-robotic-arm
 
+![alt text][https://github.com/suraj2596/Imitating-robotic-arm/blob/master/misc/1]
+
+
 This is my Final Year Project of my BE in ECE. 
 
 The aim of the project is to build a robotic arm which could be placed anywhere in the world. 
