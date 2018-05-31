@@ -1,5 +1,5 @@
 # Imitating-robotic-arm
-=======
+---
 ![Sensors](https://github.com/suraj2596/Imitating-robotic-arm/blob/master/SupportMaterial/Pictures/1)
 ![Hand](https://github.com/suraj2596/Imitating-robotic-arm/blob/master/SupportMaterial/Pictures/2)
 ![hand](https://github.com/suraj2596/Imitating-robotic-arm/blob/master/SupportMaterial/Pictures/3)
