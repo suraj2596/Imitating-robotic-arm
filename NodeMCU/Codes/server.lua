@@ -1,0 +1,8 @@
+srv=net.createServer(net.TCP)
+srv:listen(8080,function(conn)
+  conn:on("receive",function(conn,payload)
+    conn:send('<meta http-equiv="refresh" content="1" >')
+    conn:send('<p>Ax Value: '..payload..'</p><br>')
+  end)
+  conn:on("sent",function(conn) conn:close() end)
+end)

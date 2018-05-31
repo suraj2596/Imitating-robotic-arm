@@ -1,0 +1,5229 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-04-09T04:33:25</date>
+  <millis>1491692605585</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:25</date>
+  <millis>1491692605913</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:25</date>
+  <millis>1491692605913</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:26</date>
+  <millis>1491692606038</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:26</date>
+  <millis>1491692606054</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:26</date>
+  <millis>1491692606070</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:26</date>
+  <millis>1491692606070</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:26</date>
+  <millis>1491692606335</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:26</date>
+  <millis>1491692606351</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>found COM7</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:26</date>
+  <millis>1491692606351</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>found COM8</message>
+</record>
+<record>
+  <date>2017-04-09T04:33:26</date>
+  <millis>1491692606351</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:51</date>
+  <millis>1491692751655</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file init.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:51</date>
+  <millis>1491692751655</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\init.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:51</date>
+  <millis>1491692751686</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file init.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:51</date>
+  <millis>1491692751733</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading init.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:51</date>
+  <millis>1491692751733</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "init.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:56</date>
+  <millis>1491692756984</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file mpu.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:56</date>
+  <millis>1491692756984</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\mpu.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:56</date>
+  <millis>1491692756984</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file mpu.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:57</date>
+  <millis>1491692757117</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading mpu.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:35:57</date>
+  <millis>1491692757117</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "mpu.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:15</date>
+  <millis>1491692895920</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:15</date>
+  <millis>1491692895920</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:15</date>
+  <millis>1491692895957</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:15</date>
+  <millis>1491692895973</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading test.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:15</date>
+  <millis>1491692895973</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "test.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:19</date>
+  <millis>1491692899710</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file test_i2c.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:19</date>
+  <millis>1491692899710</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\test_i2c.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:19</date>
+  <millis>1491692899725</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file test_i2c.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:19</date>
+  <millis>1491692899757</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading test_i2c.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:19</date>
+  <millis>1491692899757</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "test_i2c.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:28</date>
+  <millis>1491692908164</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file speed_test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:28</date>
+  <millis>1491692908164</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\speed_test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:28</date>
+  <millis>1491692908164</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file speed_test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:28</date>
+  <millis>1491692908202</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading speed_test.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:28</date>
+  <millis>1491692908202</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "speed_test.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:31</date>
+  <millis>1491692911919</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:31</date>
+  <millis>1491692911919</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:32</date>
+  <millis>1491692912636</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:32</date>
+  <millis>1491692912636</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:33</date>
+  <millis>1491692913114</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:33</date>
+  <millis>1491692913114</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:37</date>
+  <millis>1491692917155</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file wire.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:37</date>
+  <millis>1491692917155</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\wire.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:37</date>
+  <millis>1491692917193</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file wire.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:37</date>
+  <millis>1491692917224</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading wire.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:37</date>
+  <millis>1491692917224</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "wire.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:53</date>
+  <millis>1491692933341</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:38:53</date>
+  <millis>1491692933341</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:39:59</date>
+  <millis>1491692999840</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File init.lua already open, select tab to file init.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:40:04</date>
+  <millis>1491693004341</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:40:04</date>
+  <millis>1491693004341</millis>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:40:12</date>
+  <millis>1491693012512</millis>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file timer_test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:40:12</date>
+  <millis>1491693012512</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\timer_test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:40:12</date>
+  <millis>1491693012533</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file timer_test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:40:12</date>
+  <millis>1491693012533</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading timer_test.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:40:12</date>
+  <millis>1491693012533</millis>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "timer_test.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:40:15</date>
+  <millis>1491693015898</millis>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:40:15</date>
+  <millis>1491693015898</millis>
+  <sequence>64</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:42:55</date>
+  <millis>1491693175903</millis>
+  <sequence>65</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-04-09T04:42:55</date>
+  <millis>1491693175903</millis>
+  <sequence>66</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>found last saved serial port COM3</message>
+</record>
+<record>
+  <date>2017-04-09T04:42:55</date>
+  <millis>1491693175903</millis>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>found COM7</message>
+</record>
+<record>
+  <date>2017-04-09T04:42:55</date>
+  <millis>1491693175903</millis>
+  <sequence>68</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>found COM8</message>
+</record>
+<record>
+  <date>2017-04-09T04:42:55</date>
+  <millis>1491693175903</millis>
+  <sequence>69</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-04-09T04:42:56</date>
+  <millis>1491693176956</millis>
+  <sequence>70</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:42:56</date>
+  <millis>1491693176956</millis>
+  <sequence>71</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:42:56</date>
+  <millis>1491693176956</millis>
+  <sequence>72</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T04:42:57</date>
+  <millis>1491693177019</millis>
+  <sequence>73</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:43:03</date>
+  <millis>1491693183378</millis>
+  <sequence>74</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T04:43:09</date>
+  <millis>1491693189004</millis>
+  <sequence>75</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T04:43:11</date>
+  <millis>1491693191068</millis>
+  <sequence>76</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:43:16</date>
+  <millis>1491693196142</millis>
+  <sequence>77</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:43:16</date>
+  <millis>1491693196142</millis>
+  <sequence>78</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:43:16</date>
+  <millis>1491693196142</millis>
+  <sequence>79</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T04:43:16</date>
+  <millis>1491693196142</millis>
+  <sequence>80</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:44:40</date>
+  <millis>1491693280559</millis>
+  <sequence>81</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=print(node.heap()0&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T04:44:43</date>
+  <millis>1491693283179</millis>
+  <sequence>82</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=print(node.heap()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T04:44:47</date>
+  <millis>1491693287846</millis>
+  <sequence>83</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=print(node.heap())&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T04:44:49</date>
+  <millis>1491693289464</millis>
+  <sequence>84</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:45:00</date>
+  <millis>1491693300467</millis>
+  <sequence>85</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:45:00</date>
+  <millis>1491693300467</millis>
+  <sequence>86</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:45:00</date>
+  <millis>1491693300468</millis>
+  <sequence>87</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T04:45:00</date>
+  <millis>1491693300588</millis>
+  <sequence>88</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:45:23</date>
+  <millis>1491693323636</millis>
+  <sequence>89</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=print(node.heap())&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:29</date>
+  <millis>1491693509456</millis>
+  <sequence>90</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:48</date>
+  <millis>1491693528113</millis>
+  <sequence>91</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:48</date>
+  <millis>1491693528113</millis>
+  <sequence>92</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:48</date>
+  <millis>1491693528113</millis>
+  <sequence>93</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:48</date>
+  <millis>1491693528237</millis>
+  <sequence>94</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:49</date>
+  <millis>1491693529809</millis>
+  <sequence>95</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:55</date>
+  <millis>1491693535168</millis>
+  <sequence>96</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:55</date>
+  <millis>1491693535168</millis>
+  <sequence>97</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:55</date>
+  <millis>1491693535168</millis>
+  <sequence>98</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T04:48:55</date>
+  <millis>1491693535168</millis>
+  <sequence>99</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:12</date>
+  <millis>1491693552086</millis>
+  <sequence>100</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:12</date>
+  <millis>1491693552086</millis>
+  <sequence>101</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:12</date>
+  <millis>1491693552118</millis>
+  <sequence>102</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:12</date>
+  <millis>1491693552720</millis>
+  <sequence>103</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:12</date>
+  <millis>1491693552720</millis>
+  <sequence>104</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:12</date>
+  <millis>1491693552720</millis>
+  <sequence>105</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:12</date>
+  <millis>1491693552720</millis>
+  <sequence>106</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:12</date>
+  <millis>1491693552736</millis>
+  <sequence>107</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:12</date>
+  <millis>1491693552736</millis>
+  <sequence>108</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553061</millis>
+  <sequence>109</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553061</millis>
+  <sequence>110</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553061</millis>
+  <sequence>111</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553061</millis>
+  <sequence>112</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553077</millis>
+  <sequence>113</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553092</millis>
+  <sequence>114</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553408</millis>
+  <sequence>115</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553408</millis>
+  <sequence>116</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553424</millis>
+  <sequence>117</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553424</millis>
+  <sequence>118</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553440</millis>
+  <sequence>119</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553440</millis>
+  <sequence>120</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553761</millis>
+  <sequence>121</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553761</millis>
+  <sequence>122</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553761</millis>
+  <sequence>123</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553761</millis>
+  <sequence>124</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553793</millis>
+  <sequence>125</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:13</date>
+  <millis>1491693553793</millis>
+  <sequence>126</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:14</date>
+  <millis>1491693554169</millis>
+  <sequence>127</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:14</date>
+  <millis>1491693554169</millis>
+  <sequence>128</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:14</date>
+  <millis>1491693554197</millis>
+  <sequence>129</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:18</date>
+  <millis>1491693558227</millis>
+  <sequence>130</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:19</date>
+  <millis>1491693559060</millis>
+  <sequence>131</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:19</date>
+  <millis>1491693559060</millis>
+  <sequence>132</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:19</date>
+  <millis>1491693559061</millis>
+  <sequence>133</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:19</date>
+  <millis>1491693559065</millis>
+  <sequence>134</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:20</date>
+  <millis>1491693560614</millis>
+  <sequence>135</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:20</date>
+  <millis>1491693560614</millis>
+  <sequence>136</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:20</date>
+  <millis>1491693560645</millis>
+  <sequence>137</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:25</date>
+  <millis>1491693565291</millis>
+  <sequence>138</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=print(node.heap())&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:28</date>
+  <millis>1491693568322</millis>
+  <sequence>139</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:28</date>
+  <millis>1491693568322</millis>
+  <sequence>140</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:28</date>
+  <millis>1491693568337</millis>
+  <sequence>141</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T04:49:30</date>
+  <millis>1491693570006</millis>
+  <sequence>142</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:14</date>
+  <millis>1491693614617</millis>
+  <sequence>143</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:14</date>
+  <millis>1491693614617</millis>
+  <sequence>144</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:14</date>
+  <millis>1491693614617</millis>
+  <sequence>145</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:14</date>
+  <millis>1491693614724</millis>
+  <sequence>146</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:17</date>
+  <millis>1491693617402</millis>
+  <sequence>147</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>DTR set to ON</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:18</date>
+  <millis>1491693618250</millis>
+  <sequence>148</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>DTR set to OFF</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:19</date>
+  <millis>1491693619131</millis>
+  <sequence>149</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>RTS set to ON</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:20</date>
+  <millis>1491693620743</millis>
+  <sequence>150</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>RTS set to OFF</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:23</date>
+  <millis>1491693623714</millis>
+  <sequence>151</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:50</date>
+  <millis>1491693650785</millis>
+  <sequence>152</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:50</date>
+  <millis>1491693650785</millis>
+  <sequence>153</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:50</date>
+  <millis>1491693650801</millis>
+  <sequence>154</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:50</date>
+  <millis>1491693650807</millis>
+  <sequence>155</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading test.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:50</date>
+  <millis>1491693650807</millis>
+  <sequence>156</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "test.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:53</date>
+  <millis>1491693653952</millis>
+  <sequence>157</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:53</date>
+  <millis>1491693653952</millis>
+  <sequence>158</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:56</date>
+  <millis>1491693656317</millis>
+  <sequence>159</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file test_i2c.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:56</date>
+  <millis>1491693656317</millis>
+  <sequence>160</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\test_i2c.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:56</date>
+  <millis>1491693656317</millis>
+  <sequence>161</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file test_i2c.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:56</date>
+  <millis>1491693656332</millis>
+  <sequence>162</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading test_i2c.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:50:56</date>
+  <millis>1491693656332</millis>
+  <sequence>163</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "test_i2c.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:02</date>
+  <millis>1491693662517</millis>
+  <sequence>164</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:02</date>
+  <millis>1491693662517</millis>
+  <sequence>165</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:08</date>
+  <millis>1491693668101</millis>
+  <sequence>166</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file wire.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:08</date>
+  <millis>1491693668101</millis>
+  <sequence>167</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\wire.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:08</date>
+  <millis>1491693668102</millis>
+  <sequence>168</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file wire.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:08</date>
+  <millis>1491693668105</millis>
+  <sequence>169</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading wire.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:08</date>
+  <millis>1491693668105</millis>
+  <sequence>170</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "wire.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:10</date>
+  <millis>1491693670869</millis>
+  <sequence>171</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:10</date>
+  <millis>1491693670869</millis>
+  <sequence>172</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:15</date>
+  <millis>1491693675331</millis>
+  <sequence>173</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file speed_test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:15</date>
+  <millis>1491693675331</millis>
+  <sequence>174</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\speed_test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:15</date>
+  <millis>1491693675331</millis>
+  <sequence>175</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file speed_test.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:15</date>
+  <millis>1491693675346</millis>
+  <sequence>176</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading speed_test.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:15</date>
+  <millis>1491693675346</millis>
+  <sequence>177</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "speed_test.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:22</date>
+  <millis>1491693682823</millis>
+  <sequence>178</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:51:22</date>
+  <millis>1491693682823</millis>
+  <sequence>179</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:53:26</date>
+  <millis>1491693806520</millis>
+  <sequence>180</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file test_i2c.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:53:26</date>
+  <millis>1491693806536</millis>
+  <sequence>181</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\test_i2c.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:53:26</date>
+  <millis>1491693806536</millis>
+  <sequence>182</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file test_i2c.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:53:26</date>
+  <millis>1491693806536</millis>
+  <sequence>183</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading test_i2c.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:53:26</date>
+  <millis>1491693806536</millis>
+  <sequence>184</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open "test_i2c.lua": Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:53:31</date>
+  <millis>1491693811022</millis>
+  <sequence>185</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:53:31</date>
+  <millis>1491693811022</millis>
+  <sequence>186</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:56:09</date>
+  <millis>1491693969191</millis>
+  <sequence>187</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:56:09</date>
+  <millis>1491693969191</millis>
+  <sequence>188</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T04:56:09</date>
+  <millis>1491693969191</millis>
+  <sequence>189</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T04:56:09</date>
+  <millis>1491693969298</millis>
+  <sequence>190</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:07</date>
+  <millis>1491694087616</millis>
+  <sequence>191</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open file with_interrupts.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:07</date>
+  <millis>1491694087616</millis>
+  <sequence>192</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File name: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\with_interrupts.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:07</date>
+  <millis>1491694087616</millis>
+  <sequence>193</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to load file with_interrupts.lua</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:07</date>
+  <millis>1491694087616</millis>
+  <sequence>194</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>java.io.FileNotFoundException: C:\Users\Suraj Bonagiri\Desktop\FYP\scripts\with_interrupts.lua (The system cannot find the file specified)</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:07</date>
+  <millis>1491694087616</millis>
+  <sequence>195</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Loading with_interrupts.lua: FAIL.</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:11</date>
+  <millis>1491694091400</millis>
+  <sequence>196</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>New empty file ready.</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:14</date>
+  <millis>1491694094174</millis>
+  <sequence>197</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:14</date>
+  <millis>1491694094174</millis>
+  <sequence>198</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:26</date>
+  <millis>1491694106215</millis>
+  <sequence>199</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:26</date>
+  <millis>1491694106215</millis>
+  <sequence>200</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:27</date>
+  <millis>1491694107463</millis>
+  <sequence>201</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>New empty file ready.</message>
+</record>
+<record>
+  <date>2017-04-09T04:58:29</date>
+  <millis>1491694109446</millis>
+  <sequence>202</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Saving new file...</message>
+</record>
+<record>
+  <date>2017-04-09T04:59:38</date>
+  <millis>1491694178956</millis>
+  <sequence>203</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to saving file with_interrupts.lua ...</message>
+</record>
+<record>
+  <date>2017-04-09T04:59:38</date>
+  <millis>1491694178956</millis>
+  <sequence>204</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Save file with_interrupts.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:35</date>
+  <millis>1491694295400</millis>
+  <sequence>205</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>We save known file with_interrupts.lua</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:35</date>
+  <millis>1491694295400</millis>
+  <sequence>206</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to saving file with_interrupts.lua ...</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:35</date>
+  <millis>1491694295400</millis>
+  <sequence>207</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Save file with_interrupts.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>208</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: chooser selected file:1</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>209</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Try to load file with_interrupts.lua ...</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>210</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Load file with_interrupts.lua: Success, size:3766</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>211</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>1. packets = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>212</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>2. packets = 16</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>213</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 0</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>214</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>215</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 1</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>216</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>217</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 2</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>218</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>219</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 3</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>220</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>221</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 4</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>222</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>223</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 5</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>224</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302166</millis>
+  <sequence>225</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 6</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302183</millis>
+  <sequence>226</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302183</millis>
+  <sequence>227</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 7</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302184</millis>
+  <sequence>228</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302184</millis>
+  <sequence>229</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 8</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302185</millis>
+  <sequence>230</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302185</millis>
+  <sequence>231</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 9</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302185</millis>
+  <sequence>232</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302186</millis>
+  <sequence>233</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 10</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302186</millis>
+  <sequence>234</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302187</millis>
+  <sequence>235</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 11</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302187</millis>
+  <sequence>236</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302187</millis>
+  <sequence>237</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 12</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>238</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>239</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 13</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>240</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>241</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 14</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>242</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>243</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>244</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>245</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Total packets prepared=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>246</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sendPackets=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302188</millis>
+  <sequence>247</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302235</millis>
+  <sequence>248</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302235</millis>
+  <sequence>249</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Start</message>
+</record>
+<record>
+  <date>2017-04-09T05:01:42</date>
+  <millis>1491694302251</millis>
+  <sequence>250</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _up=function(n,l,ll) local cs = 0 local i = 0 print("&gt;".." ") uart.on("data", l, function(b) i = i + 1 file.open("with_interrupts.lua",'a+') file.write(b) file.close() cs=0 for j=1, l do cs = cs + (b:byte(j)*20)%19 end</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>251</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: chooser selected file:1</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>252</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Try to load file with_interrupts.lua ...</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>253</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Load file with_interrupts.lua: Success, size:3766</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>254</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>1. packets = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>255</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>2. packets = 16</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>256</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 0</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>257</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>100</thread>
+  <message>sending:_up=nil</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>258</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>259</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 1</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>260</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>100</thread>
+  <message>java.lang.NullPointerException</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>261</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>262</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 2</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>263</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>264</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>100</thread>
+  <message>Uploader: Fail</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>265</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 3</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>266</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>267</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 4</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>268</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320565</millis>
+  <sequence>269</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 5</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>270</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>271</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 6</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>272</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>273</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 7</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>274</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>275</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 8</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>276</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>277</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 9</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>278</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>100</thread>
+  <message>Operation done. Duration = 18393 ms</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>279</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>280</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 10</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>281</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>282</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 11</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>283</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>284</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 12</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>285</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>286</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 13</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>287</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>288</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 14</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>289</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>290</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>291</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>292</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Total packets prepared=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>293</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sendPackets=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>294</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>295</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320581</millis>
+  <sequence>296</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Start</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:00</date>
+  <millis>1491694320619</millis>
+  <sequence>297</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _up=function(n,l,ll) local cs = 0 local i = 0 print("&gt;".." ") uart.on("data", l, function(b) i = i + 1 file.open("with_interrupts.lua",'a+') file.write(b) file.close() cs=0 for j=1, l do cs = cs + (b:byte(j)*20)%19 end</message>
+</record>
+<record>
+  <date>2017-04-09T05:02:04</date>
+  <millis>1491694324884</millis>
+  <sequence>298</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Operation done. Duration = 4303 ms</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:22</date>
+  <millis>1491694402077</millis>
+  <sequence>299</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413053</millis>
+  <sequence>300</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413053</millis>
+  <sequence>301</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413053</millis>
+  <sequence>302</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413169</millis>
+  <sequence>303</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>304</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: chooser selected file:1</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>305</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Try to load file with_interrupts.lua ...</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>306</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Load file with_interrupts.lua: Success, size:3766</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>307</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>1. packets = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>308</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>2. packets = 16</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>309</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 0</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>310</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>311</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 1</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>312</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>313</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 2</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>314</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>315</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 3</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>316</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>317</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 4</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>318</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>319</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 5</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>320</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>321</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 6</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>322</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>323</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 7</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>324</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>325</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 8</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>326</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:33</date>
+  <millis>1491694413984</millis>
+  <sequence>327</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 9</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414000</millis>
+  <sequence>328</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414000</millis>
+  <sequence>329</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 10</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414001</millis>
+  <sequence>330</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414001</millis>
+  <sequence>331</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 11</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414001</millis>
+  <sequence>332</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414001</millis>
+  <sequence>333</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 12</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414001</millis>
+  <sequence>334</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414001</millis>
+  <sequence>335</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 13</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414002</millis>
+  <sequence>336</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414002</millis>
+  <sequence>337</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 14</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414002</millis>
+  <sequence>338</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414002</millis>
+  <sequence>339</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414003</millis>
+  <sequence>340</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414003</millis>
+  <sequence>341</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Total packets prepared=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414003</millis>
+  <sequence>342</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sendPackets=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414003</millis>
+  <sequence>343</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414003</millis>
+  <sequence>344</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414003</millis>
+  <sequence>345</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Start</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:34</date>
+  <millis>1491694414018</millis>
+  <sequence>346</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _up=function(n,l,ll) local cs = 0 local i = 0 print("&gt;".." ") uart.on("data", l, function(b) i = i + 1 file.open("with_interrupts.lua",'a+') file.write(b) file.close() cs=0 for j=1, l do cs = cs + (b:byte(j)*20)%19 end</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:37</date>
+  <millis>1491694417819</millis>
+  <sequence>347</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Operation done. Duration = 3816 ms</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>348</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: chooser selected file:1</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>349</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Try to load file with_interrupts.lua ...</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>350</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Load file with_interrupts.lua: Success, size:3766</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>351</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>1. packets = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>352</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>2. packets = 16</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>353</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 0</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>354</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>355</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 1</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>356</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>357</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 2</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>358</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>359</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 3</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>360</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>361</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 4</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>362</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>363</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 5</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>364</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>365</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 6</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>366</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>367</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 7</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>368</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>369</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 8</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>370</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>371</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 9</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>372</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>373</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 10</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>374</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>375</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 11</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>376</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>377</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 12</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>378</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>379</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 13</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>380</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>381</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 14</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>382</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>383</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>384</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>385</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Total packets prepared=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422653</millis>
+  <sequence>386</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sendPackets=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422668</millis>
+  <sequence>387</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422668</millis>
+  <sequence>388</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422668</millis>
+  <sequence>389</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Start</message>
+</record>
+<record>
+  <date>2017-04-09T05:03:42</date>
+  <millis>1491694422684</millis>
+  <sequence>390</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _up=function(n,l,ll) local cs = 0 local i = 0 print("&gt;".." ") uart.on("data", l, function(b) i = i + 1 file.open("with_interrupts.lua",'a+') file.write(b) file.close() cs=0 for j=1, l do cs = cs + (b:byte(j)*20)%19 end</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:00</date>
+  <millis>1491694440923</millis>
+  <sequence>391</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.chipid()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:05</date>
+  <millis>1491694445511</millis>
+  <sequence>392</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.chipid()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:10</date>
+  <millis>1491694450096</millis>
+  <sequence>393</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:=node.chipid()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:25</date>
+  <millis>1491694465932</millis>
+  <sequence>394</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:26</date>
+  <millis>1491694466500</millis>
+  <sequence>395</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:26</date>
+  <millis>1491694466500</millis>
+  <sequence>396</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:26</date>
+  <millis>1491694466500</millis>
+  <sequence>397</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:26</date>
+  <millis>1491694466500</millis>
+  <sequence>398</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:36</date>
+  <millis>1491694476317</millis>
+  <sequence>399</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:36</date>
+  <millis>1491694476317</millis>
+  <sequence>400</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileManager: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:36</date>
+  <millis>1491694476357</millis>
+  <sequence>401</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _dir=function() local k,v,l print("~~~File ".."list START~~~") for k,v in pairs(file.list()) do l = string.format("%-15s",k) print(l.." : "..v.." bytes") end print("~~~File ".."list END~~~") end _dir() _dir=nil</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>402</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: chooser selected file:1</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>403</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Try to load file with_interrupts.lua ...</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>404</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Load file with_interrupts.lua: Success, size:3766</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>405</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>1. packets = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>406</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>2. packets = 16</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>407</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 0</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>408</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>409</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 1</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>410</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>411</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 2</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>412</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>413</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 3</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>414</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>415</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 4</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>416</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>417</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 5</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>418</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>419</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 6</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>420</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>421</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 7</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>422</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>423</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 8</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>424</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>425</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 9</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>426</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>427</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 10</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>428</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>429</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 11</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>430</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480740</millis>
+  <sequence>431</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 12</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>432</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>433</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 13</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>434</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>435</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 14</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>436</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=250</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>437</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>3. packet = 15</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>438</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Prepare next packet for send, len=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>439</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>BinaryFileLoader: Total packets prepared=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>440</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sendPackets=16</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>441</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Starting...</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>442</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Add EventListener: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480756</millis>
+  <sequence>443</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Uploader: Start</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:40</date>
+  <millis>1491694480771</millis>
+  <sequence>444</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending: _up=function(n,l,ll) local cs = 0 local i = 0 print("&gt;".." ") uart.on("data", l, function(b) i = i + 1 file.open("with_interrupts.lua",'a+') file.write(b) file.close() cs=0 for j=1, l do cs = cs + (b:byte(j)*20)%19 end</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:43</date>
+  <millis>1491694483626</millis>
+  <sequence>445</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Operation done. Duration = 2870 ms</message>
+</record>
+<record>
+  <date>2017-04-09T05:04:54</date>
+  <millis>1491694494597</millis>
+  <sequence>446</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:file.format()&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:53</date>
+  <millis>1491694553381</millis>
+  <sequence>447</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:54</date>
+  <millis>1491694554349</millis>
+  <sequence>448</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:55</date>
+  <millis>1491694555482</millis>
+  <sequence>449</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:56</date>
+  <millis>1491694556245</millis>
+  <sequence>450</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:56</date>
+  <millis>1491694556261</millis>
+  <sequence>451</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:56</date>
+  <millis>1491694556583</millis>
+  <sequence>452</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:56</date>
+  <millis>1491694556583</millis>
+  <sequence>453</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:56</date>
+  <millis>1491694556914</millis>
+  <sequence>454</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:56</date>
+  <millis>1491694556914</millis>
+  <sequence>455</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:57</date>
+  <millis>1491694557298</millis>
+  <sequence>456</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>sending:r,u,t=file.fsinfo() print("Total : "..t.." bytes\r\nUsed  : "..u.." bytes\r\nRemain: "..r.." bytes\r\n") r=nil u=nil t=nil&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2017-04-09T05:05:59</date>
+  <millis>1491694559330</millis>
+  <sequence>457</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:06:25</date>
+  <millis>1491694585759</millis>
+  <sequence>458</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T05:06:25</date>
+  <millis>1491694585759</millis>
+  <sequence>459</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T05:06:25</date>
+  <millis>1491694585759</millis>
+  <sequence>460</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T05:06:25</date>
+  <millis>1491694585881</millis>
+  <sequence>461</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:11</date>
+  <millis>1491694631612</millis>
+  <sequence>462</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>jssc.SerialPortException: Port name - COM3; Method name - setEventsMask(); Exception type - Can't set mask.</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:11</date>
+  <millis>1491694631613</millis>
+  <sequence>463</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Close port COM3 - unknown error.</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:13</date>
+  <millis>1491694633148</millis>
+  <sequence>464</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:13</date>
+  <millis>1491694633148</millis>
+  <sequence>465</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>found last saved serial port COM3</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:13</date>
+  <millis>1491694633148</millis>
+  <sequence>466</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>found COM7</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:13</date>
+  <millis>1491694633148</millis>
+  <sequence>467</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>found COM8</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:13</date>
+  <millis>1491694633148</millis>
+  <sequence>468</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:14</date>
+  <millis>1491694634234</millis>
+  <sequence>469</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:14</date>
+  <millis>1491694634234</millis>
+  <sequence>470</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Baud rate 9600 save as default.</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:14</date>
+  <millis>1491694634234</millis>
+  <sequence>471</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to open port COM3, baud 9600, 8N1</message>
+</record>
+<record>
+  <date>2017-04-09T05:07:14</date>
+  <millis>1491694634697</millis>
+  <sequence>472</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2017-04-09T14:46:08</date>
+  <millis>1491729368898</millis>
+  <sequence>473</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab removed: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T14:46:08</date>
+  <millis>1491729368899</millis>
+  <sequence>474</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T14:46:08</date>
+  <millis>1491729368899</millis>
+  <sequence>475</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File changed. Ask before closing.</message>
+</record>
+<record>
+  <date>2017-04-09T14:46:11</date>
+  <millis>1491729371359</millis>
+  <sequence>476</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>We save known file mpu.lua</message>
+</record>
+<record>
+  <date>2017-04-09T14:46:11</date>
+  <millis>1491729371360</millis>
+  <sequence>477</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Try to saving file mpu.lua ...</message>
+</record>
+<record>
+  <date>2017-04-09T14:46:11</date>
+  <millis>1491729371361</millis>
+  <sequence>478</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>Save file mpu.lua: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T14:46:11</date>
+  <millis>1491729371385</millis>
+  <sequence>479</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2017-04-09T14:46:11</date>
+  <millis>1491729371385</millis>
+  <sequence>480</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>File close: Success.</message>
+</record>
+</log>
