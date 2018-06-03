@@ -16,8 +16,10 @@ This project focuses on data capturing and transmitting. Later, a ROS model will
 
 Currently working on applying some predictive modelling on the sensor data.
 
-Complementary filter 
+[comment]: # (Complementary filter 
 http://www.pieter-jan.com/node/11
+)
 
-MicroPython code for interacting with MPU6050 and ESP8266
+[comment]: # (MicroPython code for interacting with MPU6050 and ESP8266
 https://github.com/larsks/py-mpu6050
+)
